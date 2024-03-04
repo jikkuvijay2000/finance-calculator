@@ -1,0 +1,51 @@
+*
+{
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+}
+
+.login
+{
+    display: flex;
+
+}
+
+#carouselExampleIndicators
+{
+    width: 1000px;
+}
+
+.container
+{
+   width: 90%;
+   max-width: 490px;
+   display: grid;
+   padding: 25px;
+   gap: 10px;
+   text-align: center;
+   margin-top: 20%;
+
+}
+.loginHead
+{
+    font-size: 48px;
+}
+
+.loginDesc
+{
+    font-size: 16px;
+}
+
+.loginText
+{
+    margin-top: 16px;
+}
+
+.signUpButton
+{
+    margin-top: -10px;
+}
+
+
+

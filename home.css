@@ -1,0 +1,64 @@
+*
+{
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+}
+
+.navbar
+{
+    background-color:rgb(250, 92, 1);
+}
+
+
+.container
+{
+    width: 490px;
+    max-width: 100%;
+    display: grid;
+    gap: 15px;
+    margin-top: 4%;
+    
+}
+
+.TotalBalance
+{
+    color:green;
+    font-size: 64px;
+}
+
+.TotalExpense
+{
+    color: crimson;
+    font-size: 64px;
+}
+
+#Expensetable
+{
+    margin-left: 20px;
+    
+}
+
+#incometable
+{
+    margin-left: 250px;
+}
+
+.mainHead
+{
+    margin-left: 165px;
+    padding: 20px;
+}
+
+#logoutButton
+{
+    margin-left: 350px;
+}
+
+#foot
+{
+    background-color :white
+}
+
+
+
